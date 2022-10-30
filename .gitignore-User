@@ -1,3 +1,11 @@
+/*
+MP-EC-21-16(JCER)
+IoT BASED CHARGING STATION FOR e-VEHICLES
+Under the guidance of Prof.Chaitanya K J
+Team members: Ashwin Gavi, Gouri KUlkarni, Pallavi Kalaghan, Aditi Upadhya
+*/
+
+//USER
 #include "painlessMesh.h"
 
 #define   MESH_PREFIX     "Mesh_username"
